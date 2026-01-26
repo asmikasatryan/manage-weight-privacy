@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asmikasatryan.github.io/manage-weight-privacy/sitemap.xml
